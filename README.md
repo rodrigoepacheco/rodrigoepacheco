@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rodrigo pacheco
 - 👀 I’m interested in learn to program but no idea in which area to pursue, for now only the very basics 
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning Python
 - 💞️ For now I'm learning more than helping 
 - 📫 How to reach me in rodrigoe.pacheco@gmail.com
 
